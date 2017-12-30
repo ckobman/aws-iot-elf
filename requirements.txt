@@ -1,8 +1,8 @@
-AWSIoTPythonSDK
-boto3
-botocore
-docutils
-futures
-jmespath
-python-dateutil
-six
+AWSIoTPythonSDK==1.3.1
+boto3==1.5.7
+botocore==1.8.21
+docutils==0.14
+futures==3.2.0
+jmespath==0.9.3
+python-dateutil==2.6.1
+six==1.5
